@@ -47,6 +47,30 @@ Knusperleichte Flakes und knackige Mandeln in zartschmelzender Milchschokolade
   </tbody>
 </table>
 
+## 27.04.2021
+Epsiode „Die Katja Burkard-Festspiele“ vom 27. April 2021 ab Minute 8:16 ([Direktlink zur Rubrik auf acast](https://play.acast.com/s/drinnies/diekatjaburkard-festspiele?seek=496))
+
+### Unsere Kekszeit
+Die erste Keksmischung mit Deinen Lieblingskeksen
+<table>
+  <thead>
+    <tr>
+      <th>Geschmack</th>
+      <th>Preis</th>
+      <th>Beschaffung</th>
+      <th>Lebensgefühl</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Lecker bis zum letzten Krümel</td>
+      <td>0,95€ pro 100g</td>
+      <td>—</td>
+      <td>—</td>
+    </tr>
+  </tbody>
+</table>
+
 ## 13.04.2021
 Epsiode „Messer sind cool“ vom 13. April 2021 ab Minute 25:23 ([Direktlink zur Rubrik auf acast](https://play.acast.com/s/drinnies/messersindcool?seek=1523))
 
