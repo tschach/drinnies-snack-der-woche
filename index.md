@@ -47,6 +47,51 @@ Knusperleichte Flakes und knackige Mandeln in zartschmelzender Milchschokolade
   </tbody>
 </table>
 
+## 10.08.2021 «Schweiz-Spezial»
+Epsiode „Mittagsschlaf in einer Cremeschnitte“ vom 10. August 2021 ab Minute 18:41 ([Direktlink zur Rubrik auf acast](https://play.acast.com/s/drinnies/mittagsschlafineinercremeschnitte?seek=1121))
+
+### Migros Bio-Eistee Schweizer Alpenkräuter
+Kräuterteegetränk
+<table>
+  <thead>
+    <tr>
+      <th>Geschmack</th>
+      <th>Preis</th>
+      <th>Beschaffung</th>
+      <th>Lebensgefühl</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>—</td>
+      <td>0,15€ pro 100ml</td>
+      <td>—</td>
+      <td>10/10</td>
+    </tr>
+  </tbody>
+</table>
+
+### Frey Crispy Coaties
+Gesalzene Getreidescrispies mit Buttergeschmack, überzogen mit Milchschokolade
+<table>
+  <thead>
+    <tr>
+      <th>Geschmack</th>
+      <th>Preis</th>
+      <th>Beschaffung</th>
+      <th>Lebensgefühl</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>—</td>
+      <td>1,80€ pro 100g</td>
+      <td>10/10 (in der Schweiz)</td>
+      <td>9/10</td>
+    </tr>
+  </tbody>
+</table>
+
 ## 06.07.2021 «Crossover-Snacks»
 Epsiode „Ist Chris Millionär?“ vom 6. Juli 2021 ab Minute 10:26 ([Direktlink zur Rubrik auf acast](https://play.acast.com/s/drinnies/istchrismillionar-?seek=626))
 
