@@ -1,5 +1,10 @@
 ---
 title: Snack der Woche
-description: aus dem [DRINNIES-Prodcast](https://drinnies.de/)
+description: Gesammelte «Snack der Woche» des DRINNIES-Podcasts
 ---
-## [DRINNIES-Prodcast](https://drinnies.de/)
+## DRINNIES
+### Der Podcast aus der Komfortzone von Giulia Becker & Chris Sommer
+* [drinnies.de](https://drinnies.de/)
+* [drinnies on acast](https://play.acast.com/s/drinnies)
+
+## Gesammelte «Snack der Woche»
