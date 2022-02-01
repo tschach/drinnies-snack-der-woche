@@ -3,9 +3,10 @@ title: Snack der Woche
 description: Gesammelte «Snack der Woche» des DRINNIES-Podcasts
 ---
 ## Brocken-Splitter & Choco Crossies
-Epsiode „Sozialkater“ vom 12. Oktober 2021 ab Minute 23:38 ([Direktlink zur Rubrik auf acast](https://play.acast.com/s/686e98a6-24b8-4ca4-98bb-16ef4ade7aed/616439850f8c430012cc7a0a?seek=1418))
+Epsiode „Sozialkater“ vom 12. Oktober 2021 ab Minute 23:38 ([Direktlink zur Rubrik auf acast](https://play.acast.com/s/drinnies/die-taxiflucht?seek=1418))
 
 ### Brocken-Splitter
+Traditionelle Haselnusskrokant-Dreiecke mit Zartbitterschokolade
 <table>
   <thead>
     <tr>
@@ -24,6 +25,7 @@ Epsiode „Sozialkater“ vom 12. Oktober 2021 ab Minute 23:38 ([Direktlink zur 
 </table>
 
 ### Choco Crossies
+Knusperleichte Flakes und knackige Mandeln in zartschmelzender Milchschokolade
 <table>
   <thead>
     <tr>
@@ -40,6 +42,29 @@ Epsiode „Sozialkater“ vom 12. Oktober 2021 ab Minute 23:38 ([Direktlink zur 
     </tr>
   </tbody>
 </table>
+
+## Haribo Fresh'n Fruity
+Rubrikpremiere: Epsiode „Fresh'n Fruity“ vom 16. Februar 2021 ab Minute 9:10 ([Direktlink zur Rubrik auf acast](https://play.acast.com/s/drinnies/freshnfruity?seek=550))
+
+### Haribo Fresh'n Fruity
+Fruchtgummi-Partybox mit Schaumzucker, teilweise mit Cola-Geschmack
+<table>
+  <thead>
+    <tr>
+      <th>Preis</th>
+      <th>Beschaffung</th>
+      <th>Lebensgefühl</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0,45€ pro 100g</td>
+      <td>—</td>
+      <td>—</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## DRINNIES
 ### Der Podcast aus der Komfortzone von Giulia Becker & Chris Sommer
