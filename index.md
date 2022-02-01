@@ -1,6 +1,6 @@
 ---
 title: Snack der Woche
-description: Gesammelte «Snack der Woche» des DRINNIES-Podcasts
+description: Die gesammelten «Snack der Woche» aus dem DRINNIES-Podcast
 ---
 ## 12.10.2021 «Es krosst und knackt»
 Epsiode „Sozialkater“ vom 12. Oktober 2021 ab Minute 23:38 ([Direktlink zur Rubrik auf acast](https://play.acast.com/s/drinnies/die-taxiflucht?seek=1418))
