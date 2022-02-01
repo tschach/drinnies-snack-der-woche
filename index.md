@@ -7,8 +7,6 @@ description: Gesammelte «Snack der Woche» des DRINNIES-Podcasts
 * [drinnies.de](https://drinnies.de/)
 * [drinnies on acast](https://play.acast.com/s/drinnies)
 
-{:toc}
-
 ## Brocken-Splitter & Choco Crossies
 Epsiode „Sozialkater“ vom 12. Oktober 2021 ab Minute 23:38 ([Direktlink zur Rubrik auf acast](https://play.acast.com/s/686e98a6-24b8-4ca4-98bb-16ef4ade7aed/616439850f8c430012cc7a0a?seek=1418))
 
