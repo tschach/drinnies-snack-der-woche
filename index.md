@@ -47,6 +47,52 @@ Knusperleichte Flakes und knackige Mandeln in zartschmelzender Milchschokolade
   </tbody>
 </table>
 
+## 06.07.2021 «Crossover-Snacks»
+Epsiode „Ist Chris Millionär?“ vom 6. Juli 2021 ab Minute 10:26 ([Direktlink zur Rubrik auf acast](https://play.acast.com/s/drinnies/istchrismillionar-?seek=626))
+
+### M&M's-Tafelschokolade Crispy
+Milchschokolade mit m&m's minis und Getreide-Crispies
+<table>
+  <thead>
+    <tr>
+      <th>Geschmack</th>
+      <th>Preis</th>
+      <th>Beschaffung</th>
+      <th>Lebensgefühl</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>8/10</td>
+      <td>2,00€ pro 100g</td>
+      <td>4/10</td>
+      <td>9/10</td>
+    </tr>
+  </tbody>
+</table>
+
+### Werther's Original Caramel Popcorn Brezel
+Popcorn und Laugengebäck mit Sahne-Karamell-Meersalz-Überzug
+<table>
+  <thead>
+    <tr>
+      <th>Geschmack</th>
+      <th>Preis</th>
+      <th>Beschaffung</th>
+      <th>Lebensgefühl</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>9/10</td>
+      <td>1,45€ pro 100g</td>
+      <td>5/10</td>
+      <td>10/10</td>
+    </tr>
+  </tbody>
+</table>
+
+
 ## 01.06.2021 «Limo-Spezial»
 Epsiode „Eine Ampel sieht rot“ vom 1. Juni 2021 ab Minute 34:52 ([Direktlink zur Rubrik auf acast](https://play.acast.com/s/drinnies/eineampelsiehtrot?seek=2092))
 
@@ -116,7 +162,7 @@ Die erste Keksmischung mit Deinen Lieblingskeksen
   </tbody>
 </table>
 
-## 13.04.2021
+## 13.04.2021 «Retro-Snacks»
 Epsiode „Messer sind cool“ vom 13. April 2021 ab Minute 25:23 ([Direktlink zur Rubrik auf acast](https://play.acast.com/s/drinnies/messersindcool?seek=1523))
 
 ### Autopack
@@ -161,7 +207,7 @@ Schokosticks gefüllt mit einem flüssigen Kern in der Geschmacksrichtung Orange
   </tbody>
 </table>
 
-## 16.03.2021
+## 16.03.2021 «Die Kontroverse»
 Epsiode „Endstation Sodastream“ vom 16. März 2021 ab Minute 8:38 ([Direktlink zur Rubrik auf acast](https://play.acast.com/s/drinnies/endstationsodastream?seek=518))
 
 ### Belgische Meeresfrüchte
@@ -180,7 +226,7 @@ Schokoladenpralinen mit Nougatfüllung
       <td>—</td>
       <td>0,90€ pro 100g</td>
       <td>—</td>
-      <td>kontrovers</td>
+      <td>—</td>
     </tr>
   </tbody>
 </table>
