@@ -10,6 +10,7 @@ Traditionelle Haselnusskrokant-Dreiecke mit Zartbitterschokolade
 <table>
   <thead>
     <tr>
+      <th>Geschmack</th>
       <th>Preis</th>
       <th>Beschaffung</th>
       <th>Lebensgefühl</th>
@@ -17,6 +18,7 @@ Traditionelle Haselnusskrokant-Dreiecke mit Zartbitterschokolade
   </thead>
   <tbody>
     <tr>
+      <td>—</td>
       <td>7/10 (2,70€ pro 100g)</td>
       <td>schwierig</td>
       <td>11/10</td>
@@ -29,6 +31,7 @@ Knusperleichte Flakes und knackige Mandeln in zartschmelzender Milchschokolade
 <table>
   <thead>
     <tr>
+      <th>Geschmack</th>
       <th>Preis</th>
       <th>Beschaffung</th>
       <th>Lebensgefühl</th>
@@ -36,9 +39,55 @@ Knusperleichte Flakes und knackige Mandeln in zartschmelzender Milchschokolade
   </thead>
   <tbody>
     <tr>
+      <td>—</td>
       <td>1,35€ pro 100g</td>
       <td>9/10</td>
       <td>—</td>
+    </tr>
+  </tbody>
+</table>
+
+## 13.04.2021
+Epsiode „Messer sind cool“ vom 13. April 2021 ab Minute 25:23 ([Direktlink zur Rubrik auf acast](https://play.acast.com/s/drinnies/messersindcool?seek=1523))
+
+### Autopack
+Weichgummi für den Getränkehalter im Auto
+<table>
+  <thead>
+    <tr>
+      <th>Geschmack</th>
+      <th>Preis</th>
+      <th>Beschaffung</th>
+      <th>Lebensgefühl</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>8,5/10</td>
+      <td>0,54€ pro 100g</td>
+      <td>4/10</td>
+      <td>10/10</td>
+    </tr>
+  </tbody>
+</table>
+
+### Erfrischungsstäbchen
+Schokosticks gefüllt mit einem flüssigen Kern in der Geschmacksrichtung Orange-Zitrone
+<table>
+  <thead>
+    <tr>
+      <th>Geschmack</th>
+      <th>Preis</th>
+      <th>Beschaffung</th>
+      <th>Lebensgefühl</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>9/10</td>
+      <td>1,35€ pro 100g</td>
+      <td>10/10</td>
+      <td>10/10</td>
     </tr>
   </tbody>
 </table>
@@ -51,6 +100,7 @@ Schokoladenpralinen mit Nougatfüllung
 <table>
   <thead>
     <tr>
+      <th>Geschmack</th>
       <th>Preis</th>
       <th>Beschaffung</th>
       <th>Lebensgefühl</th>
@@ -58,6 +108,7 @@ Schokoladenpralinen mit Nougatfüllung
   </thead>
   <tbody>
     <tr>
+      <td>—</td>
       <td>0,90€ pro 100g</td>
       <td>—</td>
       <td>kontrovers</td>
@@ -73,6 +124,7 @@ Fruchtgummi-Partybox mit Schaumzucker, teilweise mit Cola-Geschmack
 <table>
   <thead>
     <tr>
+      <th>Geschmack</th>
       <th>Preis</th>
       <th>Beschaffung</th>
       <th>Lebensgefühl</th>
@@ -80,6 +132,7 @@ Fruchtgummi-Partybox mit Schaumzucker, teilweise mit Cola-Geschmack
   </thead>
   <tbody>
     <tr>
+      <td>—</td>
       <td>0,45€ pro 100g</td>
       <td>—</td>
       <td>—</td>
