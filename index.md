@@ -47,6 +47,51 @@ Knusperleichte Flakes und knackige Mandeln in zartschmelzender Milchschokolade
   </tbody>
 </table>
 
+## 07.09.2021 «Snack-Underdogs»
+Epsiode „Der Kryptosnack“ vom 7. September 2021 ab Minute 37:12 ([Direktlink zur Rubrik auf acast](https://play.acast.com/s/drinnies/der-kryptosnack?seek=2232))
+
+### Hitschies Mermaid Mix
+Perlmuttartig schimmernde Kaubonbons
+<table>
+  <thead>
+    <tr>
+      <th>Geschmack</th>
+      <th>Preis</th>
+      <th>Beschaffung</th>
+      <th>Lebensgefühl</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>—</td>
+      <td>1,20€ pro 100g</td>
+      <td>—</td>
+      <td>10/10</td>
+    </tr>
+  </tbody>
+</table>
+
+### Daim-Riegel
+Gefüllte Milchschokolade mit Mandel-Karamell
+<table>
+  <thead>
+    <tr>
+      <th>Geschmack</th>
+      <th>Preis</th>
+      <th>Beschaffung</th>
+      <th>Lebensgefühl</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>—</td>
+      <td>2,00€ pro 100g</td>
+      <td>schwierig</td>
+      <td>9/10</td>
+    </tr>
+  </tbody>
+</table>
+
 ## 10.08.2021 «Schweiz-Spezial»
 Epsiode „Mittagsschlaf in einer Cremeschnitte“ vom 10. August 2021 ab Minute 18:41 ([Direktlink zur Rubrik auf acast](https://play.acast.com/s/drinnies/mittagsschlafineinercremeschnitte?seek=1121))
 
