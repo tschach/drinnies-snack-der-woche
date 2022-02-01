@@ -16,6 +16,19 @@ Epsiode „Sozialkater“ vom 12. Oktober 2021 ab Minute 23:38 ([Direktlink zur 
 |7/10 (2,70€ pro 100g)|schwierig|11/10|
 
 ### Choco Crossies
-|Preis|Beschaffung|Lebensgefühl|
-|:---:|:---:|:---:|
-|1,35€ pro 100g|9/10|—|
+<table>
+<thead>
+<tr>
+  <th>Preis</th>
+  <th>Beschaffung</th>
+  <th>Lebensgefühl</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>1,35€ pro 100g</td>
+  <td>9/10</td>
+  <td>—</td>
+</tr>
+</tbody>
+</table>
