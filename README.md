@@ -1,2 +1,2 @@
-# drinnies-snack-der-woche
-Gesammelte «Snack der Woche» des DRINNIES-Prodcasts
+# DRINNIES Snack der Woche
+Gesammelte «Snack der Woche» des DRINNIES-Podcasts
