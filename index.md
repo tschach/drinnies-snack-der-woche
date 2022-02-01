@@ -2,7 +2,7 @@
 title: Snack der Woche
 description: Gesammelte «Snack der Woche» des DRINNIES-Podcasts
 ---
-## 12.10.2021
+## 12.10.2021 «Es krosst und knackt»
 Epsiode „Sozialkater“ vom 12. Oktober 2021 ab Minute 23:38 ([Direktlink zur Rubrik auf acast](https://play.acast.com/s/drinnies/die-taxiflucht?seek=1418))
 
 ### Brocken-Splitter
@@ -47,7 +47,52 @@ Knusperleichte Flakes und knackige Mandeln in zartschmelzender Milchschokolade
   </tbody>
 </table>
 
-## 27.04.2021
+## 01.06.2021 «Limo-Spezial»
+Epsiode „Eine Ampel sieht rot“ vom 1. Juni 2021 ab Minute 34:52 ([Direktlink zur Rubrik auf acast](https://play.acast.com/s/drinnies/eineampelsiehtrot?seek=2092))
+
+### Schwip Schwap Zero
+Cola-Orange-Mischgetränk
+<table>
+  <thead>
+    <tr>
+      <th>Geschmack</th>
+      <th>Preis</th>
+      <th>Beschaffung</th>
+      <th>Lebensgefühl</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>10/10</td>
+      <td>0,05€ pro 100ml</td>
+      <td>10/10</td>
+      <td>10/10</td>
+    </tr>
+  </tbody>
+</table>
+
+### Coca Cola Light Lemon
+Koffein- und kohlensäurehaltiges Erfrischungsgetränk
+<table>
+  <thead>
+    <tr>
+      <th>Geschmack</th>
+      <th>Preis</th>
+      <th>Beschaffung</th>
+      <th>Lebensgefühl</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>—</td>
+      <td>0,10€ pro 100ml</td>
+      <td>4/10</td>
+      <td>—</td>
+    </tr>
+  </tbody>
+</table>
+
+## 27.04.2021 «Gebäckmischung-Influencing»
 Epsiode „Die Katja Burkard-Festspiele“ vom 27. April 2021 ab Minute 8:16 ([Direktlink zur Rubrik auf acast](https://play.acast.com/s/drinnies/diekatjaburkard-festspiele?seek=496))
 
 ### Unsere Kekszeit
@@ -140,8 +185,8 @@ Schokoladenpralinen mit Nougatfüllung
   </tbody>
 </table>
 
-## 16.02.2021
-Rubrikpremiere: Epsiode „Fresh'n Fruity“ vom 16. Februar 2021 ab Minute 9:10 ([Direktlink zur Rubrik auf acast](https://play.acast.com/s/drinnies/freshnfruity?seek=550))
+## 16.02.2021 «Rubrikpremiere»
+Epsiode „Fresh'n Fruity“ vom 16. Februar 2021 ab Minute 9:10 ([Direktlink zur Rubrik auf acast](https://play.acast.com/s/drinnies/freshnfruity?seek=550))
 
 ### Haribo Fresh'n Fruity
 Fruchtgummi-Partybox mit Schaumzucker, teilweise mit Cola-Geschmack
