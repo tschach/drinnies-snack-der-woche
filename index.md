@@ -2,6 +2,53 @@
 title: Snack der Woche
 description: Die gesammelten «Snack der Woche» aus dem DRINNIES-Podcast
 ---
+## 23.11.2021 «Advent-Spezial»
+Epsiode „Generation Clearasil“ vom 23. November 2021 ab Minute 19:02 ([Direktlink zur Rubrik auf acast](https://play.acast.com/s/drinnies/generation-clearasil?seek=1142))
+
+### Baumkuchenspitzen Irish Cream
+Snack-Gebäck mit Irish-Cream-Likör und Vollmilchschokolade
+<table>
+  <thead>
+    <tr>
+      <th>Geschmack</th>
+      <th>Preis</th>
+      <th>Beschaffung</th>
+      <th>Lebensgefühl</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>—</td>
+      <td>1,15€ pro 100g</td>
+      <td>6/10</td>
+      <td>10/10</td>
+    </tr>
+  </tbody>
+</table>
+
+### Spekulatius Bites
+Gebäckstücke mit Spekulatiusgeschmack und Schokolade umhüllt
+<table>
+  <thead>
+    <tr>
+      <th>Geschmack</th>
+      <th>Preis</th>
+      <th>Beschaffung</th>
+      <th>Lebensgefühl</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>10/10</td>
+      <td>0,65€ pro 100g</td>
+      <td>5/10</td>
+      <td>10/10</td>
+    </tr>
+  </tbody>
+</table>
+
+***
+
 ## 09.11.2021 «Muggelige Snacks»
 Epsiode „Shoutout an alle Fenster da draußen“ vom 9. November 2021 ab Minute 19:39 ([Direktlink zur Rubrik auf acast](https://play.acast.com/s/drinnies/shoutout-an-alle-fenster-da-drauen?seek=1179))
 
