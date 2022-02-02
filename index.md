@@ -284,7 +284,7 @@ Koffein- und kohlensäurehaltiges Erfrischungsgetränk
 
 ***
 
-## 27.04.2021 «Gebäckmischung-Influencing»
+## 27.04.2021 «Keks-Drinfluencing»
 Epsiode „Die Katja Burkard-Festspiele“ vom 27. April 2021 ab Minute 8:16 ([Direktlink zur Rubrik auf acast](https://play.acast.com/s/drinnies/diekatjaburkard-festspiele?seek=496))
 
 ### Griesson Unsere Kekszeit
