@@ -2,7 +2,7 @@
 title: Snack der Woche
 description: Die gesammelten «Snack der Woche» aus dem DRINNIES-Podcast
 ---
-## 09.11.2021 «Snacks nahe der Kulturzeit»
+## 09.11.2021 «Muggelige Snacks»
 Epsiode „Shoutout an alle Fenster da draußen“ vom 9. November 2021 ab Minute 19:39 ([Direktlink zur Rubrik auf acast](https://play.acast.com/s/drinnies/shoutout-an-alle-fenster-da-drauen?seek=1179))
 
 ### Katjes Fred Ferkel
