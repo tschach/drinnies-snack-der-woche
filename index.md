@@ -2,6 +2,53 @@
 title: Snack der Woche
 description: Die gesammelten «Snack der Woche» aus dem DRINNIES-Podcast
 ---
+## 09.11.2021 «Snacks nahe der Kulturzeit»
+Epsiode „Shoutout an alle Fenster da draußen“ vom 9. November 2021 ab Minute 19:39 ([Direktlink zur Rubrik auf acast](https://play.acast.com/s/drinnies/shoutout-an-alle-fenster-da-drauen?seek=1179))
+
+### Katjes Fred Ferkel
+Vegetarischer Schaumzucker mit Fruchtgummi
+<table>
+  <thead>
+    <tr>
+      <th>Geschmack</th>
+      <th>Preis</th>
+      <th>Beschaffung</th>
+      <th>Lebensgefühl</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>9/10</td>
+      <td>0,50€ pro 100g</td>
+      <td>10/10</td>
+      <td>10/10</td>
+    </tr>
+  </tbody>
+</table>
+
+### Teekanne Caramel Apple Pie Tee
+Aromatisierter Früchtetee mit Apfelkuchen-Karamell-Aroma
+<table>
+  <thead>
+    <tr>
+      <th>Geschmack</th>
+      <th>Preis</th>
+      <th>Beschaffung</th>
+      <th>Lebensgefühl</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>—</td>
+      <td>0,12€ pro Tasse</td>
+      <td>—</td>
+      <td>10/10</td>
+    </tr>
+  </tbody>
+</table>
+
+***
+
 ## 12.10.2021 «Es krosst und knackt»
 Epsiode „Sozialkater“ vom 12. Oktober 2021 ab Minute 23:38 ([Direktlink zur Rubrik auf acast](https://play.acast.com/s/drinnies/die-taxiflucht?seek=1418))
 
@@ -46,6 +93,8 @@ Knusperleichte Flakes und knackige Mandeln in zartschmelzender Milchschokolade
     </tr>
   </tbody>
 </table>
+
+***
 
 ## 07.09.2021 «Snack-Underdogs»
 Epsiode „Der Kryptosnack“ vom 7. September 2021 ab Minute 37:12 ([Direktlink zur Rubrik auf acast](https://play.acast.com/s/drinnies/der-kryptosnack?seek=2232))
@@ -92,6 +141,8 @@ Gefüllte Milchschokolade mit Mandel-Karamell
   </tbody>
 </table>
 
+***
+
 ## 10.08.2021 «Schweiz-Spezial»
 Epsiode „Mittagsschlaf in einer Cremeschnitte“ vom 10. August 2021 ab Minute 18:41 ([Direktlink zur Rubrik auf acast](https://play.acast.com/s/drinnies/mittagsschlafineinercremeschnitte?seek=1121))
 
@@ -136,6 +187,8 @@ Gesalzene Getreidescrispies mit Buttergeschmack, überzogen mit Milchschokolade
     </tr>
   </tbody>
 </table>
+
+***
 
 ## 06.07.2021 «Crossover-Snacks»
 Epsiode „Ist Chris Millionär?“ vom 6. Juli 2021 ab Minute 10:26 ([Direktlink zur Rubrik auf acast](https://play.acast.com/s/drinnies/istchrismillionar-?seek=626))
@@ -182,6 +235,7 @@ Popcorn und Laugengebäck mit Sahne-Karamell-Meersalz-Überzug
   </tbody>
 </table>
 
+***
 
 ## 01.06.2021 «Limo-Spezial»
 Epsiode „Eine Ampel sieht rot“ vom 1. Juni 2021 ab Minute 34:52 ([Direktlink zur Rubrik auf acast](https://play.acast.com/s/drinnies/eineampelsiehtrot?seek=2092))
@@ -228,10 +282,12 @@ Koffein- und kohlensäurehaltiges Erfrischungsgetränk
   </tbody>
 </table>
 
+***
+
 ## 27.04.2021 «Gebäckmischung-Influencing»
 Epsiode „Die Katja Burkard-Festspiele“ vom 27. April 2021 ab Minute 8:16 ([Direktlink zur Rubrik auf acast](https://play.acast.com/s/drinnies/diekatjaburkard-festspiele?seek=496))
 
-### Unsere Kekszeit
+### Griesson Unsere Kekszeit
 Die erste Keksmischung mit Deinen Lieblingskeksen
 <table>
   <thead>
@@ -252,10 +308,12 @@ Die erste Keksmischung mit Deinen Lieblingskeksen
   </tbody>
 </table>
 
+***
+
 ## 13.04.2021 «Retro-Snacks»
 Epsiode „Messer sind cool“ vom 13. April 2021 ab Minute 25:23 ([Direktlink zur Rubrik auf acast](https://play.acast.com/s/drinnies/messersindcool?seek=1523))
 
-### Autopack
+### Red Band Autopack
 Weichgummi für den Getränkehalter im Auto
 <table>
   <thead>
@@ -276,7 +334,7 @@ Weichgummi für den Getränkehalter im Auto
   </tbody>
 </table>
 
-### Erfrischungsstäbchen
+### DeBeukelaer Erfrischungsstäbchen
 Schokosticks gefüllt mit einem flüssigen Kern in der Geschmacksrichtung Orange-Zitrone
 <table>
   <thead>
@@ -296,6 +354,8 @@ Schokosticks gefüllt mit einem flüssigen Kern in der Geschmacksrichtung Orange
     </tr>
   </tbody>
 </table>
+
+***
 
 ## 16.03.2021 «Die Kontroverse»
 Epsiode „Endstation Sodastream“ vom 16. März 2021 ab Minute 8:38 ([Direktlink zur Rubrik auf acast](https://play.acast.com/s/drinnies/endstationsodastream?seek=518))
@@ -320,6 +380,8 @@ Schokoladenpralinen mit Nougatfüllung
     </tr>
   </tbody>
 </table>
+
+***
 
 ## 16.02.2021 «Rubrikpremiere»
 Epsiode „Fresh'n Fruity“ vom 16. Februar 2021 ab Minute 9:10 ([Direktlink zur Rubrik auf acast](https://play.acast.com/s/drinnies/freshnfruity?seek=550))
