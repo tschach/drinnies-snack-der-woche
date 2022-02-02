@@ -407,8 +407,6 @@ Fruchtgummi-Partybox mit Schaumzucker, teilweise mit Cola-Geschmack
   </tbody>
 </table>
 
+***
 
-## DRINNIES
-### Der Podcast aus der Komfortzone von Giulia Becker & Chris Sommer
-* [drinnies.de](https://drinnies.de/)
-* [drinnies on acast](https://play.acast.com/s/drinnies)
+### [DRINNIES: Der Podcast aus der Komfortzone von Giulia Becker & Chris Sommer](https://drinnies.de/)
