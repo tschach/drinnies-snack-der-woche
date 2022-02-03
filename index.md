@@ -2,6 +2,53 @@
 title: Snack der Woche
 description: Die gesammelten «Snack der Woche» aus dem DRINNIES-Podcast
 ---
+## 01.02.2022 «Lokal unterwegs»
+Epsiode „Alarm im Krakenarm“ vom 1. Februar 2022 ab Minute 17:50 ([Direktlink zur Rubrik auf acast](https://play.acast.com/s/drinnies/alarm-im-krakenarm?seek=1070))
+
+### Hitschies Saure Krakenarme
+Vanillig-fruchtig-saure Fruchtgummi-Stangen
+<table>
+  <thead>
+    <tr>
+      <th>Geschmack</th>
+      <th>Preis</th>
+      <th>Beschaffung</th>
+      <th>Lebensgefühl</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>9/10</td>
+      <td>0,80€ pro 100g</td>
+      <td>noch neu</td>
+      <td>—</td>
+    </tr>
+  </tbody>
+</table>
+
+### Alpia Schoko Brezeln
+Salzige Brezeln umhüllt von zarter Vollmilchschokolade
+<table>
+  <thead>
+    <tr>
+      <th>Geschmack</th>
+      <th>Preis</th>
+      <th>Beschaffung</th>
+      <th>Lebensgefühl</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>—</td>
+      <td>1,40€ pro 100g</td>
+      <td>—</td>
+      <td>—</td>
+    </tr>
+  </tbody>
+</table>
+
+***
+
 ## 23.11.2021 «Advent-Spezial»
 Epsiode „Generation Clearasil“ vom 23. November 2021 ab Minute 19:02 ([Direktlink zur Rubrik auf acast](https://play.acast.com/s/drinnies/generation-clearasil?seek=1142))
 
