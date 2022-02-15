@@ -2,6 +2,51 @@
 title: Snack der Woche
 description: Die gesammelten «Snack der Woche» aus dem DRINNIES-Podcast
 ---
+## 15.02.2022 «Autonome Snacks»
+Epsiode „Birkenstock-Rodeln“ vom 15. Februar 2022 ab Minute 27:33 ([Direktlink zur Rubrik auf acast](https://play.acast.com/s/drinnies/birkenstock-rodeln?seek=1653))
+
+### Sondey Milchcreme Cookies
+Keks mit weicher Milchcreme und Cerealien-Topping
+<table>
+  <thead>
+    <tr>
+      <th>Geschmack</th>
+      <th>Preis</th>
+      <th>Beschaffung</th>
+      <th>Lebensgefühl</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>8,5/10</td>
+      <td>0,88€ pro 100g</td>
+      <td>9/10</td>
+      <td>10/10</td>
+    </tr>
+  </tbody>
+</table>
+
+### Casali Schoko-Bananen
+Bananen-Schaumzucker mit Schokoladenüberzug (nicht die mit Gelee!)
+<table>
+  <thead>
+    <tr>
+      <th>Geschmack</th>
+      <th>Preis</th>
+      <th>Beschaffung</th>
+      <th>Lebensgefühl</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>—</td>
+      <td>10/10 (0,73€ pro 100g)</td>
+      <td>9/10</td>
+      <td>15/10</td>
+    </tr>
+  </tbody>
+</table>
+
 ## 01.02.2022 «Lokal unterwegs»
 Epsiode „Alarm im Krakenarm“ vom 1. Februar 2022 ab Minute 17:50 ([Direktlink zur Rubrik auf acast](https://play.acast.com/s/drinnies/alarm-im-krakenarm?seek=1070))
 
