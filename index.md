@@ -2,8 +2,53 @@
 title: Snack der Woche
 description: Die gesammelten «Snack der Woche» aus dem DRINNIES-Podcast
 ---
+## 22.03.2022 «Eis-am-Stiel-Spezial»
+Epsiode „Das Cornetto-Kartell“ vom 22. März 2022 ab Minute 8:36 ([Direktlink zur Rubrik auf acast](https://play.acast.com/s/drinnies/das-cornetto-kartell?seek=516))
+
+### Cornetto Erdbeer
+Erdbeereis und Eis mit Vanillegeschmack in einer Waffel mit kakaohaltiger Fettglasur, Erdbeersauce und weißen Schokoladenstückchen
+<table>
+  <thead>
+    <tr>
+      <th>Geschmack</th>
+      <th>Preis</th>
+      <th>Beschaffung</th>
+      <th>Lebensgefühl</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>9/10</td>
+      <td>7/10 (2,00€ pro 100g)</td>
+      <td>3/10</td>
+      <td>—</td>
+    </tr>
+  </tbody>
+</table>
+
+### Solero Exotic
+Vanilleeis, durchzogen und umhüllt mit Exotic-Frucht-Sorbet 
+<table>
+  <thead>
+    <tr>
+      <th>Geschmack</th>
+      <th>Preis</th>
+      <th>Beschaffung</th>
+      <th>Lebensgefühl</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>10/10</td>
+      <td>?</td>
+      <td>schwierig</td>
+      <td>—</td>
+    </tr>
+  </tbody>
+</table>
+
 ## 15.02.2022 «Autonome Snacks»
-Epsiode „Birkenstock-Rodeln“ vom 15. Februar 2022 ab Minute 27:33 ([Direktlink zur Rubrik auf acast](https://play.acast.com/s/drinnies/birkenstock-rodeln?seek=1653))
+Epsiode „Birkenstock-Rodeln“ vom 15. Februar 2022 ab Minute 26:30 ([Direktlink zur Rubrik auf acast](https://play.acast.com/s/drinnies/birkenstock-rodeln?seek=1590))
 
 ### Sondey Milchcreme Cookies
 Keks mit weicher Milchcreme und Cerealien-Topping
