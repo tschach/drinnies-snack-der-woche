@@ -2,6 +2,51 @@
 title: Snack der Woche
 description: Die gesammelten «Snack der Woche» aus dem DRINNIES-Podcast
 ---
+## 05.04.2022 «Schweiz-Spezial II»
+Epsiode „Holo Bolo“ vom 5. April 2022 ab Minute 21:58 ([Direktlink zur Rubrik auf acast](https://play.acast.com/s/drinnies/holo-bolo?seek=1318))
+
+### Party Pizza Beans
+Ackerbohnen, frittiert und gewürzt
+<table>
+  <thead>
+    <tr>
+      <th>Geschmack</th>
+      <th>Preis</th>
+      <th>Beschaffung</th>
+      <th>Lebensgefühl</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>7/10</td>
+      <td>3/10 (2,30€ pro 100g)</td>
+      <td>10/10 (in der Schweiz)</td>
+      <td>6/10</td>
+    </tr>
+  </tbody>
+</table>
+
+### Farmer Apfel Getreideriegel
+Getreideriegel mit Apfelstückchen und Sultaninen mit Milchschokoladenüberzug
+<table>
+  <thead>
+    <tr>
+      <th>Geschmack</th>
+      <th>Preis</th>
+      <th>Beschaffung</th>
+      <th>Lebensgefühl</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>9/10</td>
+      <td>1,55€ pro 100g</td>
+      <td>10/10 (in der Schweiz)</td>
+      <td>2/10</td>
+    </tr>
+  </tbody>
+</table>
+
 ## 22.03.2022 «Eis-am-Stiel-Spezial»
 Epsiode „Das Cornetto-Kartell“ vom 22. März 2022 ab Minute 8:36 ([Direktlink zur Rubrik auf acast](https://play.acast.com/s/drinnies/das-cornetto-kartell?seek=516))
 
