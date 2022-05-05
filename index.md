@@ -2,6 +2,51 @@
 title: Snack der Woche
 description: Die gesammelten «Snack der Woche» aus dem DRINNIES-Podcast
 ---
+## 03.05.2022 «Snack-Piraterie»
+Epsiode „Wacht auf ihr Snack-Schafe!!!“ vom 3. Mai 2022 ab Minute 29:29 ([Direktlink zur Rubrik auf acast](https://play.acast.com/s/drinnies/wacht-auf-ihr-snack-schafe?seek=1769))
+
+### Biscotto Seeräuber 
+Mürbekekse mit Schokocreme und mit einem Schokodekor bestreut
+<table>
+  <thead>
+    <tr>
+      <th>Geschmack</th>
+      <th>Preis</th>
+      <th>Beschaffung</th>
+      <th>Lebensgefühl</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>8,5/10</td>
+      <td>10/10 (0,75€ pro 100g)</td>
+      <td>3/10</td>
+      <td>8/10</td>
+    </tr>
+  </tbody>
+</table>
+
+### ja! Happy Knabberbox
+Knabbergebäck-Mischung
+<table>
+  <thead>
+    <tr>
+      <th>Geschmack</th>
+      <th>Preis</th>
+      <th>Beschaffung</th>
+      <th>Lebensgefühl</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>10/10</td>
+      <td>10/10 (0,40€ pro 100g)</td>
+      <td>5/10</td>
+      <td>10/10</td>
+    </tr>
+  </tbody>
+</table>
+
 ## 05.04.2022 «Schweiz-Spezial II»
 Epsiode „Holo Bolo“ vom 5. April 2022 ab Minute 21:58 ([Direktlink zur Rubrik auf acast](https://play.acast.com/s/drinnies/holo-bolo?seek=1318))
 
